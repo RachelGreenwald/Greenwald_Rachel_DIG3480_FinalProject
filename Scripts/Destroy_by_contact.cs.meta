@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3616d8ad4e09f58468bd2407a24ec508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {fileID: 100004, guid: 2857e183f4cd3df4e9096e5b578bd32f, type: 3}
+  - playerexplosion: {instanceID: 0}
+  - asteroidsound: {fileID: 8300000, guid: 3dc7455402dfa462b89a4bbd513955e9, type: 3}
+  - asteroidsource: {fileID: 1410754765805437902, guid: e52b34aac8d414e4aaa3c3d8bb277c41,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
